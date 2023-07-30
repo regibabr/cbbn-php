@@ -1,0 +1,262 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+
+#corpo{
+width: 1024px; 
+height:2170px; 
+background:white;
+margin: auto;
+}
+
+#menu{
+width: 1024px;
+height: 40px;
+background:#2192d3;
+float: left;
+margin-top: 0px;
+
+}
+
+/* Estilo do menu */
+
+nav {
+margin-top:3px;
+}
+
+nav ul{
+
+List-style: none;
+padding: 0;
+}
+
+nav li {
+
+line-height: 2rem;
+position: relative;
+}
+
+nav li ul{
+position: absolute;
+}
+
+
+nav a {
+
+color: white;
+display: block;
+padding: 0 1.5em;
+text-decoration:none;
+transition: .4s;
+}
+
+nav a:hover{
+background: rgba(0,0,0,.5);
+
+}
+
+nav li ul {
+display: none;
+}
+
+nav li:hover  > ul{
+display:block;
+}
+
+
+
+/* Primeiro Nivel */
+
+nav > ul > li{
+float: left;
+}
+
+/* Segundo Nivel */
+
+nav li li {
+background: #2192d3;
+
+}
+
+nav > ul > li > ul {
+
+top: 100%;
+}
+
+
+
+
+
+
+
+	
+#icones{
+width: 1024px;
+height: 40px;
+background:ccc;
+float: left;
+margin-top: 0px;
+}
+
+#igreja{
+margin-top: 3px;
+margin-left: 5px;
+}
+
+#membros{
+float: left;
+margin-top: -32px;
+margin-left: 53px;
+}
+
+#corpo{
+width: 1024px; 
+height:750px; 
+
+margin: auto;
+}
+
+#logo{
+margin-top:150px;
+margin-left: 325px;
+}
+#tituloLogo{
+
+font:40px "Trebuchet MS", Arial, Helvetica, sans-serif;
+width: 1024px; 
+height:70px;
+margin-top:50px;
+text-align: center;
+float: left;
+}
+
+
+
+#cad{
+background:ccc;
+margin-top: 20px;
+padding:8px;
+height:600px;
+}
+
+#dois{
+float: left;
+margin-left:350px;
+margin-top: -394px;
+
+}
+
+#tres{
+float: left;
+margin-left:700px;
+margin-top: -414px;
+}
+
+label{
+color:black;
+
+
+}
+
+.bt{
+margin-top:30px;
+background:#C00000;
+color:#ffffff;
+width: 75px;
+height: 25px;
+border:0px;
+cursor:pointer;
+margin-left:10px;
+float:left;
+}
+
+input{
+border:1px solid #cccccc;
+padding:4px; width: 300px; display: block;
+}
+
+select {
+border:1px solid #cccccc;
+padding:4px; width: 150px; display: block;
+}
+
+#cNum {
+border:1px solid #cccccc;
+padding:4px; width: 100px; display: block;
+}
+
+#cCEP {
+border:1px solid #cccccc;
+padding:4px; width: 150px; display: block;
+}
+
+#cNasc {
+border:1px solid #cccccc;
+padding:4px; width: 150px; display: block;
+}
+
+#cCasamento {
+border:1px solid #cccccc;
+padding:4px; width: 150px; display: block;
+}
+
+#cBatismo {
+border:1px solid #cccccc;
+padding:4px; width: 150px; display: block;
+}
+
+#cRG {
+border:1px solid #cccccc;
+padding:4px; width: 150px; display: block;
+}
+
+#cCPF {
+border:1px solid #cccccc;
+padding:4px; width: 150px; display: block;
+}
+
+#cFoneCasa {
+border:1px solid #cccccc;
+padding:4px; width: 150px; display: block;
+}
+
+#cFoneCel {
+border:1px solid #cccccc;
+padding:4px; width: 150px; display: block;
+}
+
+
+
+#listamembros{
+margin-top: 20px;
+}
+
+
+#tabela{
+margin-top: 20px;
+
+width: 1024px; 
+height:750px; 
+}
+
+#tabela td{
+border: 1px solid #606060;
+padding: 1px;
+text-align: center;
+vertical-align: middle;
+
+}
+
+.td{
+font-weight: bold;
+}
+
+#iconePDF{
+float: right;
+Margin-right:430px;
+margin-top:10px;
+}
+

@@ -1,0 +1,772 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+
+body{
+background-image:url(../img/Fundo.jpg);
+background-repeat: repeat-x;	
+background-attachment: fixed;
+}
+
+#tudo{
+width: 1024px; 
+height:2100px; 
+background: white;
+margin: auto;
+}
+
+#topo{
+width: 1024px;
+height: 145px;
+float:left;
+}
+
+
+
+form.login {
+float: left;
+margin-left:430px;
+ background-color: white;
+ height:70px;
+width:500px;
+font: 11px Verdana, sans-serif;
+color: #003399;
+margin-top: 5px;
+
+
+}
+.campos {
+margin-top:10px;
+background-color:#e0e0e0; 
+font: 11px georgia, sans-serif;
+color:#2192d3;
+margin-right: 20px;
+height:20px;
+width:150px;
+
+
+}
+.botao {
+background-color: white;
+font: 11px Arial, sans-serif;
+color:#2192d3;
+margin-left:-12px;
+
+}
+label{
+color: #2192d3; 
+
+
+}
+
+
+
+
+
+
+form p{
+color: #2192d3; 
+margin-left: 5px;
+margin-top: 2px;
+margin-left:-135px;
+}
+
+#p{
+	margin-left: 10px;
+}
+
+
+#img{
+margin-top: 10px;
+float: left;	
+margin-left: 140px;
+}
+
+
+
+
+#logoIBBN{
+float: left;
+margin-left:10px;  
+width: 161px;
+height: 146px;
+margin-top:-73px;  
+
+}
+
+#logoface100 {
+	width: 40px;
+height: 40px;
+   margin-left: 770px;
+   margin-top: -73px;
+	
+	
+	float:left;
+}
+
+#Instragram {
+	 margin-left: 808px;
+	width: 40px;
+height: 40px;
+
+	float:left;
+	
+	margin-top: -72px;
+	
+	
+}
+
+#buscar {
+	
+	float:left;
+	margin-top: 5px;
+    width: 800px;
+height: 40px;
+ margin-left: 50px;
+}
+
+
+#menu{
+width: 1024px;
+height: 40px;
+background:#2192d3;
+float: left;
+margin-top: 15px;
+
+}
+
+#menu ul li{
+	display:inline;
+	
+	
+}
+#menu ul li a{
+	color:white;
+	font:17px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	float:left;
+	margin-top: 7px;
+	padding:3px 62px;
+	}
+
+#menu ul li a:hover{ text-decoration: underline;  
+	color:#000; 
+	font-size:100%;}
+	
+
+#slides{
+	width:1000px;
+	height:368px;
+	margin:0 auto;
+	overflow:hidden;
+	margin-left: 11px;
+	float:left;
+	margin-top: 15px;
+}
+
+#previous{
+	
+	text-align:center; 
+		 margin-top: -200px;
+		 
+		 float: right;
+		 width:71px;
+	height:71px;
+    position: relative; z-index:150; }
+	
+	
+#next{
+	text-align:center; 
+	margin-top: -200px;
+	float: left;
+	margin-left:-27px;
+	 width:68px;
+	height:68px;	 
+		 
+    position: relative; z-index:150; }
+	
+	
+
+#quemsomos{
+width:492px;
+	height:400px;
+	float: left;
+	margin-left: 11px;
+	margin-top: -10px;
+	
+}
+
+
+
+#quemsomos a:link{text-decoration: none;}
+
+
+
+#quemsomos h2 {margin-top: 10px; text-align:center; color: #2192d3;}
+
+#quemsomos p {margin-top: 10px; font-size: 12px; text-align:center;font-family: sans-serif;font-style: normal;margin-top: 5px;color:#9e9191;}
+
+#quemsomos h3{margin-top: 5px; width:100px;  text-align:center; color: white; background: ccc;  float: left; margin-left:197px;}
+
+
+#palavrasdefe{
+width:492px;
+	height:400px;
+	float: left;
+	margin-left: 10px;
+	margin-top: -10px;
+	
+	
+}
+
+#palavrasdefe a:link{text-decoration: none;}
+
+
+
+#palavrasdefe h2 {margin-top: 10px; text-align:center; color: #2192d3;}
+
+#palavrasdefe p {margin-top: 10px; font-size: 12px; text-align:center;font-family: sans-serif;font-style: normal;margin-top: 5px;color:#9e9191;}
+
+#palavrasdefe h3{margin-top: 5px; width:100px;  text-align:center; color: white; background: ccc;  float: left; margin-left:197px;}
+
+
+#imgministerios {
+	
+	float: left;
+	margin-left: 5px;
+	width:80px;
+	height:43px;
+	margin-top: 60px;	
+	
+}
+
+#Tministerios  {
+	
+	font:25px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	float: left;
+	margin-left: 1px;
+	margin-top:63px;	
+	
+}
+
+
+
+
+
+#caixa{
+	
+	Float: left;
+	width:1004px;
+	height:325px;
+	margin-left:10px;
+	margin-top:-10px;
+	
+}
+
+.Homens{
+	width:325px;
+	height:316px;
+	
+	float: left;
+	margin-top:2px;
+	margin-left:2px;
+	
+}
+
+.Mulheres{
+	width:325px;
+	height:316px;
+	
+	float: left;
+	margin-top:2px;
+	margin-left:7px;
+	
+}
+
+
+.Jovens{
+	width:325px;
+	height:316px;
+	
+	float: left;
+	margin-top:2px;
+	margin-left:7px;
+	
+}
+
+#caixa2{
+	
+	Float: left;
+	width:1004px;
+	height:325px;
+	margin-left:10px;
+	margin-top:5px;
+	
+}
+
+.Louvor{
+	width:325px;
+	height:316px;
+	
+	float: left;
+	margin-top:2px;
+	margin-left:2px;
+	
+}
+
+.Kids{
+	width:325px;
+	height:316px;
+	
+	float: left;
+	margin-top:2px;
+	margin-left:7px;
+	
+}
+
+
+.Teatro{
+	width:325px;
+	height:316px;
+	
+	float: left;
+	margin-top:2px;
+	margin-left:20px;
+	
+}
+
+
+
+#rodape{
+
+margin-left:-10px;
+float:left;
+width:1024px;
+height:310px;
+margin-top: 60px;
+background: #2192d3;
+}
+
+
+#endereco{
+margin-left: 40px;
+float:left;
+width:250px;
+height:320px;
+margin-top: 20px;
+
+
+
+}
+
+#endereco h3{
+margin-top: 10px;
+color:#175e7b;
+font:15px "Trebuchet MS", Arial, Helvetica, sans-serif;
+margin-left:88px;
+float:left;
+}
+
+#endereco p{
+margin-top: 10px;
+color:white;
+font:15px "Trebuchet MS", Arial, Helvetica, sans-serif;
+float:left;
+margin-left:-88px;
+}
+
+#endereco iframe{
+float:left;
+margin-left:-5px;
+
+}
+
+#face{
+margin-left: 80px;
+float:left;
+width:250px;
+height:320px;
+margin-top: 20px;
+
+}
+
+
+#face h3{
+margin-top: 10px;
+color:#175e7b;
+font:15px "Trebuchet MS", Arial, Helvetica, sans-serif;
+margin-left:40px;
+float:left;
+}
+
+
+#galeria{
+margin-left: 40px;
+float:left;
+width:250px;
+height:320px;
+margin-top: 20px;
+
+
+}
+
+#galeria h3{
+margin-top: 10px;
+color:#175e7b;
+font:15px "Trebuchet MS", Arial, Helvetica, sans-serif;
+margin-left:40px;
+float:left;
+}
+
+
+
+#rodapefim{
+
+margin-left:-10px;
+float:left;
+width:1024px;
+height:90px;
+
+background: #2b3193;
+}
+
+
+
+#rodapefim ul {
+float: left;
+margin-left: 270px;
+}
+
+
+
+#rodapefim ul li{
+	display:inline;
+	
+	
+	
+}
+
+
+
+#rodapefim ul li a{
+	color:white;
+	font:12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	float:left;
+	margin-top: 7px;
+	padding:3px 20px;
+	
+	}
+
+
+#rodapefim p{
+
+margin-top:20px;
+margin-left:310px;
+float: left;
+color:white;
+	font:12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+
+#desenvolvedor{
+float:left;
+width:1024px;
+height:25px;
+
+margin-top: 450px;
+}
+
+
+#desenvolvedor p{
+float:left;
+margin-top: 10px;
+margin-left:420px;
+font-family: verdana;font-style: normal;color:red;font-size: 9px;
+
+font-weight: bold;
+}
+
+
+#tudoquemsomos{
+width: 1024px; 
+height:1990px; 
+background: white;
+margin: auto;
+display: table;
+}
+
+#quemsomosinterno{
+	width:500px;
+	height:200px;
+	
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+	
+}
+
+
+#quemsomosinterno h2{margin-top: 10px; text-align:center; color: #2192d3;}
+
+#quemsomosinterno p{margin-top: 20px; font-size: 13px; text-align:justify;font-family: sans-serif;font-style: normal;color:#9e9191;font-weight: lighter;}
+
+#rodapequemsomos{
+float:left;
+width:1024px;
+height:310px;
+margin-top: 210px;
+background: #2192d3;
+}
+
+#rodapefimquemsomos{
+
+
+float:left;
+width:1024px;
+height:90px;
+
+background: #2b3193;
+}
+
+#rodapefimquemsomos ul {
+float: left;
+margin-left: 270px;
+}
+
+
+
+#rodapefimquemsomos ul li{
+	display:inline;
+	
+	
+	
+}
+
+
+
+#rodapefimquemsomos ul li a{
+	color:white;
+	font:12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	float:left;
+	margin-top: 7px;
+	padding:3px 20px;
+	
+	}
+
+
+#rodapefimquemsomos p{
+
+margin-top:20px;
+margin-left:310px;
+float: left;
+color:white;
+	font:12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#desenvolvedorquemsomos{
+float:left;
+margin-left: 165px;
+width:1024px;
+height:25px;
+
+
+}
+
+#desenvolvedorquemsomos p{
+float:left;
+margin-top: 10px;
+margin-left:450px;
+font-family: verdana;font-style: normal;color:red;font-size: 9px;
+
+font-weight: bold;
+}
+
+
+
+#Foto1{
+margin-left: 7px;
+float: left;
+margin-top: 10px;
+}
+#Foto2{
+
+float: left;
+margin-top: -30px;
+}
+
+#Foto3{
+margin-left: 16px;
+float: left;
+margin-top: 25px;
+}
+
+
+#Comentarios h2{
+float: left;
+margin-top: 40px;
+margin-left: 10px;
+font-family: sans-serif;font-style: normal;color:#2192d3;
+}
+
+#Comentariosface{
+float: left;
+margin-top: 90px;
+margin-left: -330px;
+}
+
+#tudopalavra{
+width: 1024px; 
+height:750px; 
+background: white;
+margin: auto;
+
+}
+
+#palavrapastoralinterno{
+	width:1024px;
+	height:500px;
+	
+	margin-left: 13px;
+	float: left;
+	margin-top: 13px;
+	
+	
+}
+
+#palavrapastoralinterno h3{
+	
+	margin-top: 20px;
+	float: left;
+	margin-left: 10px;
+	color: #2192d3;
+}
+
+
+
+
+
+
+
+
+
+#rodapepalavrapastoral{
+float:left;
+width:1024px;
+height:310px;
+margin-top: 37px;
+background: #2192d3;
+}
+
+#rodapefimpalavrapastoral{
+
+
+float:left;
+width:1024px;
+height:90px;
+
+background: #2b3193;
+}
+
+#rodapefimpalavrapastoral ul {
+float: left;
+margin-left: 270px;
+}
+
+
+
+#rodapefimpalavrapastoral ul li{
+	display:inline;
+	
+	
+	
+}
+
+
+
+#rodapefimpalavrapastoral ul li a{
+	color:white;
+	font:12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	float:left;
+	margin-top: 7px;
+	padding:3px 20px;
+	
+	}
+
+
+#rodapefimpalavrapastoral p{
+
+margin-top:20px;
+margin-left:310px;
+float: left;
+color:white;
+	font:12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#desenvolvedorpalavrapastoral{
+float:left;
+width:1024px;
+height:10px;
+
+
+}
+
+#desenvolvedorpalavrapastoral p{
+float:left;
+
+margin-left:550px;
+font-family: verdana;font-style: normal;color:red;font-size: 9px;
+margin-top: 5px;
+font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#texto{
+	width:1000px;
+	height:741px;
+	margin-left:-15px;
+	float: left;
+	margin-top: 5px;
+	
+	
+}
+
+#texto p{
+	
+	font-family: verdana;font-style: normal;color:#2192d3;font-size: 13px;
+	float: left;
+	margin-top: 5px;
+	text-align: justify;
+	color:#9e9191;
+	font-weight: lighter;
+}
